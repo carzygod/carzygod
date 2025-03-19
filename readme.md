@@ -1,10 +1,40 @@
-# 👀Man , what can i say . 
+# 👀 Ignore shit . cum via endless boring .
 
-![avatar](https://github.com/user-attachments/assets/1a137afe-71cd-4268-a14e-4162f5b02938)
+![banner~1](https://github.com/user-attachments/assets/00225f7d-533e-4382-be7a-3c3a9264bf01)
 
-I am not sure why will you visit here , but that's fine , it have no much worth repo here .
+
+Not sure why will you visit here , but that's fine , it have no much worth repo here .
 
 As a developer of Web3 been few years , this account should have storage a lot of repo not even i know what it use for lol .
 
 You might see a lot wired and strange repo here . From ai-agent to GBA or may be TMA... xD
 
+## 😈 Emoji Developer
+
+As an emoji developer , you may find a lot shit emoji in my terrible repo lol . 
+
+But you have to commit that emoji coding works fun and effective (better than heigh-light)
+
+## 👑 Title ? 
+
+Well . What title should i use ? That sounds wired . But i will list all of it anyway . 
+
+- #### Founder of
+  - [Tonsprotocol Team](https://github.com/tonspay)
+  - [EvmLink](https://github.com/Evmlink)
+  - [Web3SDR](https://github.com/Web3sdr)
+  - [Fskin](https://github.com/FskinFun)
+- #### Co-Founder of
+  - [PiscesMiner](https://github.com/piscesminer)
+- #### Community developer of
+  - [Ton Society](https://github.com/ton-society)
+
+## 🔧 Stacks ? 
+
+Js/Ts | PHP | GOLANG | ERLANG | RUST | SOLIDITY 
+
+## 📞 Wants contact ? 
+
+Welcome to any kind of new ideas from Web3 to IOT . No seeking anything else but fun . 🐸
+
+- [Telegram](https://t.me/wikig16)
