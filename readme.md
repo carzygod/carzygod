@@ -24,6 +24,7 @@ Well . What title should i use ? That sounds wired . But i will list all of it a
   - [EvmLink](https://github.com/Evmlink)
   - [Web3SDR](https://github.com/Web3sdr)
   - [Fskin](https://github.com/FskinFun)
+  - [WechatMpc](https://github.com/wechatmpc)
 - #### Co-Founder of
   - [PiscesMiner](https://github.com/piscesminer)
 - #### Community developer of
