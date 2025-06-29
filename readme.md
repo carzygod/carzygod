@@ -26,6 +26,11 @@ Well . What title should i use ? That sounds wired . But i will list all of it a
   - [Fskin](https://github.com/FskinFun)
   - [WechatMpc](https://github.com/wechatmpc)
   - [Leverme Protocol](https://github.com/Leverme)
+  - [CardFi Protocol](https://github.com/cardfi-cash)
+  - [Movecash](https://github.com/movecash-top)
+  - [Moneropen](https://github.com/Moneropen)
+  - [Tonscredit Protocol](https://github.com/Tonscredit)
+  - [团小券](https://github.com/mini-coupon)
 - #### Co-Founder of
   - [PiscesMiner](https://github.com/piscesminer)
 - #### Community developer of
