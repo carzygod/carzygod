@@ -30,11 +30,13 @@ Well . What title should i use ? That sounds wired . But i will list all of it a
   - [Movecash](https://github.com/movecash-top)
   - [Moneropen](https://github.com/Moneropen)
   - [Tonscredit Protocol](https://github.com/Tonscredit)
+  - [Tstocks Protocol](https://github.com/tstockspro)
   - [团小券](https://github.com/mini-coupon)
 - #### Co-Founder of
   - [PiscesMiner](https://github.com/piscesminer)
 - #### Community developer of
   - [Ton Society](https://github.com/ton-society)
+  - [Ton Research](https://tonresear.ch/)
 
 ## 🔧 Stacks ? 
 
