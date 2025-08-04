@@ -34,6 +34,7 @@ Well . What title should i use ? That sounds wired . But i will list all of it a
   - [团小券](https://github.com/mini-coupon)
 - #### Co-Founder of
   - [PiscesMiner](https://github.com/piscesminer)
+  - [跷跷板Protocol](https://github.com/qiaoqiaoban)
 - #### Community developer of
   - [Ton Society](https://github.com/ton-society)
   - [Ton Research](https://tonresear.ch/)
