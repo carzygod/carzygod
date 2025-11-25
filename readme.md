@@ -32,12 +32,17 @@ Well . What title should i use ? That sounds wired . But i will list all of it a
   - [Tonscredit Protocol](https://github.com/Tonscredit)
   - [Tstocks Protocol](https://github.com/tstockspro)
   - [团小券](https://github.com/mini-coupon)
+  - [饰集-ItemsHub](https://github.com/itemshub)
+  - [Spook Wallet](https://github.com/spook-protocol)
 - #### Co-Founder of
   - [PiscesMiner](https://github.com/piscesminer)
   - [跷跷板Protocol](https://github.com/qiaoqiaoban)
+  - [OREMAX](https://github.com/oremaxi)
+  - [CopyPaste LTD](https://github.com/copypasteltd)
 - #### Community developer of
   - [Ton Society](https://github.com/ton-society)
   - [Ton Research](https://tonresear.ch/)
+  - [Cirluckx](https://github.com/cirluckx)
 
 ## 🔧 Stacks ? 
 
